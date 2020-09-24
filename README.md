@@ -1,5 +1,5 @@
 # test
- - [xss](javascript:alert)
+ - [xss](http://"><svg/onload=alert(1)>)
 
 
 ```html
